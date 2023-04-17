@@ -1,0 +1,32 @@
+{
+    "name": "@siziksu/args",
+    "version": "1.0.0",
+    "description": "Command line arguments tool",
+    "type": "module",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "argv",
+        "cli",
+        "args",
+        "command",
+        "line",
+        "command-line",
+        "arguments",
+        "parse",
+        "terminal",
+        "console"
+    ],
+    "author": "Esteban Latre",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Siziksu/npm-args.git"
+    },
+    "homepage": "https://github.com/Siziksu/npm-args#readme",
+    "bugs": {
+        "url": "https://github.com/Siziksu/npm-args/issues"
+    }
+}
